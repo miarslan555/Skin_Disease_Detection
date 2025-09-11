@@ -11,8 +11,7 @@
 
 **🎯 80% Validation Accuracy | 📊 Macro F1-Score: 0.7375 | 🚀 Production-Ready Deployment**
 
-[🔬 **Live Demo**](https://your-streamlit-app.com) | [📖 **Documentation**](#documentation) | [📈 **Results**](#results) | [🤝 **Contributing**](#contributing)
-
+[🔬 **Live Demo**]([https://your-streamlit-app.com](https://skindiseasedetection-uv79wgyenbxzww7w3ir9g6.streamlit.app/)) 
 </div>
 
 ---
