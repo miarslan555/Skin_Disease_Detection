@@ -148,28 +148,6 @@ streamlit run app.py
 </div>
 
 ---
-
-## 📸 **Application Screenshots**
-
-<div align="center">
-
-### **🏠 Main Dashboard**
-*Professional medical-grade interface with real-time analysis*
-
-![Main Dashboard](assets/demo_screenshots/main_dashboard.png)
-
-### **📊 Analysis Results**
-*Comprehensive prediction results with confidence scores and visualizations*
-
-![Analysis Results](assets/demo_screenshots/analysis_results.png)
-
-### **📈 Interactive Charts**
-*Advanced data visualization with Plotly integration*
-
-![Interactive Charts](assets/demo_screenshots/interactive_charts.png)
-
-</div>
-
 ---
 
 ## 🔬 **Methodology Deep Dive**
@@ -281,29 +259,7 @@ We welcome contributions from the community! Here's how you can help:
 - 🎨 **UI/UX Enhancements**: Better visualizations, user experience
 - 📊 **Data Processing**: Additional augmentation strategies
 - 🚀 **Deployment**: New platform integrations
-
-### **📝 Contribution Process**
-1. **Fork** the repository
-2. **Create** a feature branch (`git checkout -b feature/AmazingFeature`)
-3. **Commit** your changes (`git commit -m 'Add AmazingFeature'`)
-4. **Push** to the branch (`git push origin feature/AmazingFeature`)
-5. **Open** a Pull Request
-
 ---
-
-## 📚 **Documentation**
-
-### **📖 Detailed Guides**
-- [🔬 **Methodology**](docs/methodology.md): Complete technical approach
-- [📊 **Results Analysis**](docs/results_analysis.md): In-depth performance evaluation
-- [🚀 **Deployment Guide**](docs/deployment_guide.md): Production deployment instructions
-- [🛠️ **API Reference**](docs/api_reference.md): Code documentation
-
-### **🎓 **Academic Resources**
-- [📄 **Research Paper**](docs/research_paper.pdf): Detailed academic writeup
-- [📊 **Supplementary Results**](docs/supplementary_results.pdf): Extended analysis
-- [🎥 **Video Demo**](https://youtube.com/watch?v=demo): Live demonstration
-
 ---
 
 ## 🏆 **Achievements & Recognition**
@@ -346,7 +302,7 @@ MIT License - Free for academic, research, and commercial use
 - 💼 **Expertise**: Deep Learning, Computer Vision, Medical AI
 - 🎓 **Focus**: Healthcare Technology & AI Applications
 - 📧 **Contact**: your.email@example.com
-- 🌐 **GitHub**: [@yourprofile](https://github.com/yourprofile)
+- 🌐 **GitHub**: [@yourprofile]([https://github.com/miarslan555])
 - 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
