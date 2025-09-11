@@ -10,8 +10,6 @@
 [![HAM10000](https://img.shields.io/badge/Dataset-HAM10000-purple.svg)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 
 **🎯 80% Validation Accuracy | 📊 Macro F1-Score: 0.7375 | 🚀 Production-Ready Deployment**
-
-[🔬 **Live Demo**]([https://your-streamlit-app.com](https://skindiseasedetection-uv79wgyenbxzww7w3ir9g6.streamlit.app/)) 
 </div>
 
 ---
@@ -99,8 +97,7 @@ graph LR
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/dermai-skin-classification.git
-cd dermai-skin-classification
+git clone https://github.com/miarslan555/Skin_Disease_Detection.git
 ```
 
 ### **2. Set Up Environment**
@@ -127,31 +124,6 @@ streamlit run app.py
 🎉 **Open your browser to `http://localhost:8501` and start classifying!**
 
 ---
-
-## 🛠️ **Project Structure**
-
-```
-📦 dermai-skin-classification/
-├── 🎯 app.py                    # Streamlit web application
-├── 🧠 train_model.ipynb         # Complete training pipeline
-├── 📊 ham10000_best_streamlit.pth # Pre-trained model weights
-├── 📋 requirements.txt          # Python dependencies
-├── 📖 README.md                 # This file
-├── 📄 LICENSE                   # MIT License
-├── 📁 assets/                   # Images and documentation
-│   ├── 🖼️ demo_screenshots/
-│   ├── 📈 training_plots/
-│   └── 📋 confusion_matrix.png
-├── 📁 src/                      # Source code modules
-│   ├── 🔧 data_preprocessing.py
-│   ├── 🏗️ model_architecture.py
-│   ├── 📊 evaluation_metrics.py
-│   └── 🎨 visualization.py
-└── 📁 docs/                     # Detailed documentation
-    ├── 📖 methodology.md
-    ├── 🔬 results_analysis.md
-    └── 🚀 deployment_guide.md
-```
 
 ---
 
