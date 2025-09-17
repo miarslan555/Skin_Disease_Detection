@@ -303,7 +303,7 @@ MIT License - Free for academic, research, and commercial use
 - 🎓 **Focus**: Healthcare Technology & AI Applications
 - 📧 **Contact**: miarslan555@ggmail.com
 - 🌐 **GitHub**: [yourprofile](https://github.com/miarslan555)
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/mi-arslan)
 
 ---
 
@@ -323,13 +323,13 @@ MIT License - Free for academic, research, and commercial use
 
 ### **Need Help? We're Here!**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub Issues](https://img.shields.io/badge/Issues-2F363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/dermai-skin-classification/issues)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.miarslan555@gmail.com)
+[![GitHub Issues](https://img.shields.io/badge/Issues-2F363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miarslan555)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mi-arslan)
 
-**📧 Email**: your.email@example.com  
-**🐛 Issues**: [GitHub Issues](https://github.com/yourusername/dermai-skin-classification/issues)  
-**💬 Discussions**: [GitHub Discussions](https://github.com/yourusername/dermai-skin-classification/discussions)
+**📧 Email**: miarslan555@gmail.com  
+**🐛 Issues**: [GitHub Issues](https://github.com/miarslan555)  
+**💬 Discussions**: [GitHub Discussions](https://github.com/miarslan)
 
 </div>
 
