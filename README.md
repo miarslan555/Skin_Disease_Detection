@@ -10,6 +10,7 @@
 [![HAM10000](https://img.shields.io/badge/Dataset-HAM10000-purple.svg)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 
 **🎯 80% Validation Accuracy | 📊 Macro F1-Score: 0.7375 | 🚀 Production-Ready Deployment**
+
 ** LIVE DEMO https://skindiseasedetection-uv79wgyenbxzww7w3ir9g6.streamlit.app/ **
 </div>
 
