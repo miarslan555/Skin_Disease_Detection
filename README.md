@@ -301,8 +301,8 @@ MIT License - Free for academic, research, and commercial use
 
 - 💼 **Expertise**: Deep Learning, Computer Vision, Medical AI
 - 🎓 **Focus**: Healthcare Technology & AI Applications
-- 📧 **Contact**: your.email@example.com
-- 🌐 **GitHub**: [@yourprofile]([https://github.com/miarslan555])
+- 📧 **Contact**: miarslan555@ggmail.com
+- 🌐 **GitHub**: [yourprofile](https://github.com/miarslan555)
 - 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
